@@ -1,0 +1,7 @@
+pip install discord.py
+pip install numpy
+pip install keras
+pip install requests
+pip install tensorflow
+pip install Pillow
+all new versions!!!
